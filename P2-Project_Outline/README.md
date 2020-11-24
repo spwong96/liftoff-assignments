@@ -7,12 +7,42 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Allow you to connect with other book lovers to share, discuss, and recommend books. Like Yelp for books! :) Its a way organically find suggestions for new books from likeminded people. From Polly working at a bookstore.
+
 ### Features
-Include Features here
+Users-
+Log in
+Password
+List of books available
+Recommendations/wishlist
+Communication-
+Between users
+Comment/reviews on books
+Book score/rating
+Landing Page-
+Top ten traded books this week/month
+Top Recommendations
+Database of books-
+	search{
+		by genre
+		by author
+		by title
+		by published year
+		by language
+		}
+
 ### Technologies
-Include Technologies here
+* Java
+* Spring Boot
+* MySQL
+* Hibernate
+* Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+API
+Combining or joining SQL tables
+A way to link socials to profiles
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/lj4AyKJI/agile-sprint-board
+
